@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Contacts</string>
+
+    <string name="act_add">Add</string>
+    <string name="act_edit">Edit</string>
+    <string name="act_delete">Delete</string>
+    <string name="act_help">Help</string>
+    <string name="editContact">Edit contact</string>
+    <string name="addContact">Add contact</string>
+    <string name="deleteContact">Delete contact</string>
+</resources>

@@ -1,4 +1,4 @@
-package com.example.actionbuttons;
+package com.example.actionbarinternacionalizacao;
 
 import org.junit.Test;
 

@@ -12,5 +12,5 @@ dependencyResolutionManagement {
         mavenCentral()
     }
 }
-rootProject.name = "ActionButtons"
+rootProject.name = "ActionBar Internacionalização"
 include ':app'

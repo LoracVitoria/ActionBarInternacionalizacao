@@ -1,8 +1,11 @@
 <resources>
-    <string name="app_name">Action Buttons</string>
+    <string name="app_name">Contatos</string>
 
-    <string name="act_camera">Camera</string>
-    <string name="act_call">Call</string>
-    <string name="act_rotate">Rotate</string>
+    <string name="act_add">Adicionar</string>
+    <string name="act_edit">Editar</string>
+    <string name="act_delete">Remover</string>
     <string name="act_help">Help</string>
+    <string name="addContact">Adicionar contato</string>
+    <string name="editContact">Editar contato</string>
+    <string name="deleteContact">Deletar contato</string>
 </resources>
